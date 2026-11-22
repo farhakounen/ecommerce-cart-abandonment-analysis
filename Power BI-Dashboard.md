@@ -15,4 +15,5 @@ Dashboard Highlights
 
 Download the Interactive Dashboard
 
-"Download Power BI Dashboard (.pbix)" (PASTE_LINK_HERE)
+[Download Power BI Dashboard (.pbix)](https://github.com/farhakounen/ecommerce-cart-abandonment-analysis/raw/refs/heads/main/cart%20abandonment.pbix)
+
